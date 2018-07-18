@@ -1,0 +1,16 @@
+.am-textarea-control textarea{
+  font-size: 15px;
+}
+.am-checkbox-inner:after{
+  width: 4px;
+  height: 9px;
+}
+.am-checkbox-inner{
+  width: 18px;
+  height: 18px;
+}
+.saveBtn{
+  margin-top: 20px;
+  color: #fff;
+  background: #ff8448;
+}
